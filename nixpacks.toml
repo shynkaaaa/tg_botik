@@ -1,3 +1,0 @@
-[phases]
-  [phases.start]
-  cmd = "python src/app.py"
